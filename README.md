@@ -53,7 +53,7 @@ Follow the instructions below to set up, build, and run Orange OS.
 
 1. Clone the repository:
    ```bash
-   git clone <project_repository_url>
+   git clone https://github.com/CyberRubberDucky/orangeosbevy.git
    cd orange-os
    ```
 
